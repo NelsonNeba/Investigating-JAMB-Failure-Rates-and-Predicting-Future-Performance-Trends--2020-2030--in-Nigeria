@@ -191,6 +191,6 @@ Based on our findings, we propose targeted recommendations for different stakeho
 ## 11. Contact & Acknowledgements
 
 * **Intern Data Analyst:** Nelson M. - [LinkedIn](https://www.linkedin.com/in/nelsonneba/)
-* **Project Contributors:** *Maxwell O. Ekoh*, **Ridwan lawal*, *Adedigba Sukurat Alimot*, *Chinemerem Jane Godwin*
+* **Project Contributors:** *Maxwell O. Ekoh*, *Ridwan lawal*, *Adedigba Sukurat Alimot*, *Chinemerem Jane Godwin*
 
 ---
