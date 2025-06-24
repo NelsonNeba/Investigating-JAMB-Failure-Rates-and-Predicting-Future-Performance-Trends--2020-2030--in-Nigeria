@@ -177,7 +177,7 @@ Based on our findings, we propose targeted recommendations for different stakeho
     ```bash
     jupyter notebook
     ```
-    Open the notebook titled `JAMB_Performance_Analysis_Prediction_Final_Revised_Code.ipynb` (or similar name you give it).
+    Open the notebook titled `JAMB Performance Analysis Prediction.ipynb` .
 5.  **Execute Cells:** Run all cells sequentially to reproduce the EDA, predictive modeling, and forecasting.
 
 ## 10. Future Work
