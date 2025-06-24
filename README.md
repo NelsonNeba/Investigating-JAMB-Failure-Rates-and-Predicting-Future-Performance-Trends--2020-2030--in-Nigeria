@@ -120,15 +120,15 @@ To predict a student's `exam_outcome_tiered` (one of the 5 success tiers) based 
 * **Overall Accuracy:** Approximately **0.2889%** on the test set.
 * **Key Insight:** The model demonstrates a moderate ability to predict student success tiers, performing better on larger classes (Foundational, Marginal). Features like study hours and adherence are highly influential in predictions.
 * **Visualizations:**
-    * `Assets/Confusion Matrix.png` plot from your notebook.
-
+    * `` plot from your notebook.
+* ![Confusion matrix](Assets/Confusion Matrix.png)
 ## 6. Future Performance Forecasting (2026-2030)
 
 * **Methodology:** Used Linear Regression to extrapolate historical proportions of binary `Success` (>=200) and `Failure` (<200) from 2020-2025 to project trends for 2026-2030.
 * **Forecast:** Projections indicate a **continuation of current Success/Failure proportions**, suggesting that without targeted interventions, existing challenges will persist.
 * **Visualizations:**
-    * `Assets/jamb_forecasted_proportions_2020_2030.png`
-
+  
+* ![jamb_forecasted_proportions_2020_2030](Assets/jamb_forecasted_proportions_2020_2030.png)
 ## 7. Actionable Recommendations
 
 Based on our findings, we propose targeted recommendations for different stakeholders:
