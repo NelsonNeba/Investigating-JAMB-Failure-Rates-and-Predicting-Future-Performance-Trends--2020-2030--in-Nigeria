@@ -92,8 +92,8 @@ To provide a nuanced understanding, JAMB scores were categorized into:
 * **Overall:** `~56%` of students fall into Foundational/Marginal tiers, with a significant `~19%` in the **Failure tier**.
 * **Yearly Trends:** `Failure` rates peaked in **2022 and 2024**, indicating persistent challenges. 2025 showed some recovery.
 * **Visualizations:**
-    * `jamb_exam_tiered_outcome_proportions_by_year.png`
-    * `overall_jamb_tier_distribution.png` (or similar overall chart name from latest run)
+    * `Assets\jamb_exam_tiered_outcome_proportions_by_year.png`
+    * `Assets\overall_jamb_tier_distribution.png` 
 
 ### Factors Influencing Performance
 
@@ -121,14 +121,14 @@ To predict a student's `exam_outcome_tiered` (one of the 5 success tiers) based 
 * **Overall Accuracy:** Approximately **[Insert Actual Random Forest Accuracy from your notebook, e.g., 0.5222]%** on the test set.
 * **Key Insight:** The model demonstrates a moderate ability to predict student success tiers, performing better on larger classes (Foundational, Marginal). Features like study hours and adherence are highly influential in predictions.
 * **Visualizations:**
-    * `Confusion Matrix for Tiered Model (Normalized)` plot from your notebook.
+    * `Assets\Confusion Matrix.png` plot from your notebook.
 
 ## 6. Future Performance Forecasting (2026-2030)
 
 * **Methodology:** Used Linear Regression to extrapolate historical proportions of binary `Success` (>=200) and `Failure` (<200) from 2020-2025 to project trends for 2026-2030.
 * **Forecast:** Projections indicate a **continuation of current Success/Failure proportions**, suggesting that without targeted interventions, existing challenges will persist.
 * **Visualizations:**
-    * `jamb_forecasted_proportions_2020_2030.png`
+    * `Assets\jamb_forecasted_proportions_2020_2030.png`
 
 ## 7. Actionable Recommendations
 
@@ -173,7 +173,7 @@ Based on our findings, we propose targeted recommendations for different stakeho
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
-3.  **Download Dataset:** Ensure the `JAMB_Cleaned_Dataset_V3.csv` file is placed in the root directory of the cloned repository.
+3.  **Download Dataset:** Ensure the `JAMB_Cleaned_Dataset_V2.csv` file is placed in the root directory of the cloned repository.
 4.  **Run Jupyter Notebook:**
     ```bash
     jupyter notebook
@@ -191,7 +191,7 @@ Based on our findings, we propose targeted recommendations for different stakeho
 
 ## 11. Contact & Acknowledgements
 
-* **Intern Data Analyst:** Nelson M. - [LinkedIn](https://www.linkedin.com/in/nelsonneba/)]
+* **Intern Data Analyst:** Nelson M. - [LinkedIn](https://www.linkedin.com/in/nelsonneba/)
 * **Project Contributors:** *Maxwell O. Ekoh*, **Ridwan lawal*, *Adedigba Sukurat Alimot*, *Chinemerem Jane Godwin*
 
 ---
