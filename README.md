@@ -92,9 +92,8 @@ To provide a nuanced understanding, JAMB scores were categorized into:
 * **Overall:** `~56%` of students fall into Foundational/Marginal tiers, with a significant `~19%` in the **Failure tier**.
 * **Yearly Trends:** `Failure` rates peaked in **2022 and 2024**, indicating persistent challenges. 2025 showed some recovery.
 * **Visualizations:**
-    * `Assets/jamb_exam_tiered_outcome_proportions_by_year.png`
-    * `Assets/overall_jamb_tier_distribution.png` 
-
+    * ![Yearly Jamb Tier Distribution](Assets/jamb_exam_tiered_outcome_proportions_by_year.png)
+    * ![Overall Jamb Tier Distribution](Assets/overall_jamb_tier_distribution.png)
 ### Factors Influencing Performance
 
 * **Study Habits:**
