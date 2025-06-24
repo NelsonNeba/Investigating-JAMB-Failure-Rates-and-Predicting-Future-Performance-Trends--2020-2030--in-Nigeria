@@ -121,7 +121,7 @@ To predict a student's `exam_outcome_tiered` (one of the 5 success tiers) based 
 * **Key Insight:** The model demonstrates a moderate ability to predict student success tiers, performing better on larger classes (Foundational, Marginal). Features like study hours and adherence are highly influential in predictions.
 * **Visualizations:**
     * `` plot from your notebook.
-* ![Confusion matrix](Assets/Confusion Matrix.png)
+* ![Confusion matrix](Assets/Confusion_Matrix.png)
 ## 6. Future Performance Forecasting (2026-2030)
 
 * **Methodology:** Used Linear Regression to extrapolate historical proportions of binary `Success` (>=200) and `Failure` (<200) from 2020-2025 to project trends for 2026-2030.
